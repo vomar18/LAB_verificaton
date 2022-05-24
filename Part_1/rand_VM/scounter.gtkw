@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Oct 27 10:47:10 2021
+[*]
+[dumpfile] "/home/sam/svt/countersvt_tb/counter.vcd"
+[dumpfile_mtime] "Wed Oct 27 10:46:42 2021"
+[dumpfile_size] 3359
+[savefile] "/home/sam/svt/countersvt_tb/scounter.gtkw"
+[timestart] 0
+[size] 1807 697
+[pos] 64 167
+*-4.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tbench_top.
+[sst_width] 214
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 186
+@24
+tbench_top.intf.clk
+tbench_top.intf.rst
+tbench_top.intf.dec
+tbench_top.DUT.value[3:0]
+tbench_top.intf.in[3:0]
+tbench_top.intf.start
+tbench_top.intf.stop
+[pattern_trace] 1
+[pattern_trace] 0
